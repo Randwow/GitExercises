@@ -1,1 +1,10 @@
+
 change in file developer a
+
+
+Changes dev A
+changed master!!!
+
+Changes of Dev B
+changed master!!!
+
