@@ -1,4 +1,7 @@
+
 Changes dev A
 changed master!!!
-initial commit B
+
+Changes of Dev B
+changed master!!!
 
