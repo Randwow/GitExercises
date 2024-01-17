@@ -1,2 +1,2 @@
-changed master
-initial commit A and initial commit B
+Changes of Dev A
+changed master!!!
