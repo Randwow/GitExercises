@@ -1,1 +1,2 @@
-initial commit B
+changed master
+initial commit A and initial commit B
