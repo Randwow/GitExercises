@@ -1,7 +1,1 @@
-
-Changes dev A
-changed master!!!
-
-Changes of Dev B
-changed master!!!
-
+change in file developer a
