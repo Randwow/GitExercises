@@ -1,3 +1,6 @@
 [submodule "tmpslab4"]
 	path = tmpslab4
 	url = https://github.com/Randwow/tmpslab4.git
+[submodule "TMPSlab_3"]
+	path = TMPSlab_3
+	url = https://github.com/Randwow/TMPSlab_3.git
