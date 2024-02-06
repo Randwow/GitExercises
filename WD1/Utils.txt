@@ -1,12 +1,13 @@
-method1_name():
+method1_name(arg1):
 - instruction 1
 - instruction 2
 
 method2_name(arg1):
 - instruction 1
+- temp instruction
 - instruction 2
 
-method3_name(arg1, arg2):
+method3_name(arg1):
 - instruction 1
 - instruction 2
 
@@ -22,13 +23,12 @@ method6_name(arg1):
 - instruction 1
 - instruction 2
 
-method7_name(arg1, arg2):
+method7_name(arg1):
 - instruction 1
 - instruction 2
 
 method8_name(arg1, arg2, arg3):
 - instruction 1
-- instruction 2
 
 method9_name():
 - instruction 1
@@ -37,3 +37,6 @@ method9_name():
 method10_name(arg1):
 - instruction 1
 - instruction 2
+
+method12_name(arg1):
+- instruction 1
